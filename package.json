@@ -1,0 +1,11 @@
+{
+  "name": "grandson-of-obsidian",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "An Atom theme",
+  "repository": "https://github.com/roryf/grandson-of-obsidian",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
