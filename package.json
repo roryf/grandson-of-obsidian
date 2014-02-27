@@ -1,7 +1,7 @@
 {
   "name": "grandson-of-obsidian",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An Atom theme",
   "repository": "https://github.com/roryf/grandson-of-obsidian",
   "license": "MIT",
